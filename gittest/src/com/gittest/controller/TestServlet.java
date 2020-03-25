@@ -27,7 +27,7 @@ public class TestServlet extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		if(true) {
-			System.out.println("충돌되라!");
+			System.out.println("dsa");
 		}
 		System.out.println("충돌");
 		
