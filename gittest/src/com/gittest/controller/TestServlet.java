@@ -33,6 +33,8 @@ public class TestServlet extends HttpServlet {
 			System.out.println("호호호호호");
 
 			System.out.println("dsa");
+			
+			System.out.println("이건 test가 추가한 내용");
 		}
 		System.out.println("충돌");
 		
